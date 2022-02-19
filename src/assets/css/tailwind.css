@@ -1,3 +1,7 @@
+:root {
+    --form-dark-label-color: rgb(185, 182, 182);
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
